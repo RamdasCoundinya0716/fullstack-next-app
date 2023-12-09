@@ -2,4 +2,4 @@
 
 
 ### This app was made with a tutorial. Full credits to him.
-### I added only the contaoinerization part.
+### I added only the containerization part.
